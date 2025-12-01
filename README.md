@@ -15,6 +15,11 @@ I am a final-year **Electronics & Telecommunication Engineering** student and an
 * **Highlight:** Published research paper in IRE Journals.
 * **Role:** Designed the power supply and sensor integration firmware.
 
+  
+### 🦾 [IoT Data Logger with ESP32 & Firebase](LINK_TO_ARM_REPO_HERE)
+* **Tech:** ESP32 Dev Module, Firebase Realtime Database (RTDB), C++, Firebase_ESP_Client, esp32-hal-timer.
+* **Highlight:** High-Frequency Data Logger: ESP32 & Firebase RTDB.
+
 ### 🦾 [6-Axis Robotic Arm](LINK_TO_ARM_REPO_HERE)
 * **Tech:** STM32F401RE, Servo Motors, Record & Replay mechanism.
 * **Highlight:** Custom kinematics logic implemented in Embedded C.
